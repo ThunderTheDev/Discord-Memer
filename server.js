@@ -5,10 +5,8 @@ const Discord = require('discord.js');
 const client = new discord.Client({
   disableEveryone: true
 })
-const db = require("quick.db")
-const { Random } = require("something-random-on-discord")
-const random = new Random();
-const prefix = default_prefix;
+const api = require("imageapi.js");
+
 client.commands = new discord.Collection();
 client.aliases = new discord.Collection();
 
@@ -53,7 +51,7 @@ client.on("message", async message => {
   
 if(message.author.bot) return;
   if(!message.guild) return;
-  let prefix = default_prefix
+  let prefix = default_prefix;
 
     if (message.mentions.has(client.user.id) && !message.content.includes("@everyone") && !message.content.includes("@here")) {
       let mentionEmbed = new Discord.MessageEmbed()
