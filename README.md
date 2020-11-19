@@ -16,8 +16,8 @@ Go and edit in config.json, make changes below to use it!
 
 ```json
 {
-    "default_prefix": "Your Bot Prefix", 
     "token": "Your Discord Bot Token"
+    "default_prefix": "Your Bot Prefix", 
 }
 
 ```  
