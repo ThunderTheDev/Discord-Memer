@@ -24,6 +24,6 @@ Go and edit in config.json, make changes below to use it!
 
 ## About Developer
 
-This Project is Developed by ``- T H U N Đ Ξ Я 🖤#0001``
+This Project is Developed by ``ThundeR#5458``
 
-``- T H U N Đ Ξ Я 🖤#0001`` is a verified bot developer who has developed a bot named ``Thunder`` which is multi-functional and is well knowned for ``Embed`` and ``Music`` Commands tho it has more commands with total of approx 150 Commands!
+``ThundeR#5458`` is a verified bot developer who has developed a bot named ``Thunder`` which is multi-functional and is well knowned for ``Embed`` and ``Music`` Commands tho it has more commands with total of approx 150 Commands!
